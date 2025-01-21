@@ -1,5 +1,6 @@
 # blog_apis
 Overview
+
 The blog_api is a RESTful API built using Spring Boot that allows users to manage blog-related functionalities such as creating, reading, updating, and deleting blog posts. It follows a layered architecture for better maintainability and scalability.
 
 Key Features
